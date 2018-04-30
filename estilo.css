@@ -1,0 +1,103 @@
+.conteiner-uni{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.conteiner-inicio{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	
+
+}
+
+.menu-conteiner{
+	display: flex;
+    align-items: center;
+    height: 100vh;
+    width: 10vw;
+
+}
+
+.menu-list{
+	list-style: none;
+
+
+}
+
+.menu-item{
+	font-family: 'Open Sans', sans-serif;
+	list-style: none;
+	color: #808080;
+
+}
+
+.conteiner-sobre{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.ttl-sobre{
+	font-family: 'Open Sans', sans-serif;
+	display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 90vw;
+
+}
+
+.txt-sobre1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 7px;
+	height: 20vh;
+    width: 82vw;
+
+}
+
+.txt-sobre2{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 7px;
+	width: 90vw;
+	height: 20vh;
+
+}
+
+.img-gato{
+	height: 50vh;
+	width: 50vw;
+	border: 10px solid #F7B5CB;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+
+}
+
+.conteiner-contato{
+	background-image: url('/home/vai-na-web-4/Documentos/thiago/desafio estudio vai na web/imagem2.jpeg');
+	list-style: cover;
+	width: 100vw;
+	height: 100vh;
+
+}
+
+.div.contato{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    width: 10vw;
+    height: 5vh;
+
+}
+
+h2 {
+	color: #808080;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10px;
+
+}
